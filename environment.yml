@@ -1,0 +1,16 @@
+name: sitkpyEMBC19.
+
+channels:
+  - simpleitk
+  
+dependencies:
+  - python=3.7
+  - jupyter
+  - matplotlib
+  - ipywidgets
+  - numpy
+  - scipy
+  - pandas
+  - nodejs
+  - SimpleITK>=1.2.0
+    
