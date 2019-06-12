@@ -324,9 +324,11 @@ iso
 jn
 jpg
 jupyter
+jupyterlab
 labelForUndecidedPixels
 labelled
 labelling
+labextension
 lapply
 ldots
 learningRate
