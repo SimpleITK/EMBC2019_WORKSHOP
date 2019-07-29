@@ -11,10 +11,5 @@ dependencies:
   - numpy
   - scipy
   - pandas
-  - nodejs
-  - jupyterlab
   - SimpleITK>=1.2.0
-  - pip
-  - pip:
-    - ipympl
     
